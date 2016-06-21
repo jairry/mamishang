@@ -1,3 +1,3 @@
 <?php
-echo 'd';
+echo "this is pages!";
 exit;
